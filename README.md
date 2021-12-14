@@ -19,12 +19,9 @@ I'm Tejas. I love building Full stack web projects and still finding a way to co
 ### Statistics
 <a href="https://github.com/Tejas-Teju/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejas-Teju&hide=stars&show_icons=true" />
-</a>
-<a href="https://github.com/Tejas-Teju/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Teju&hide=ruby&layout=compact" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Teju" />
 </a>
-
-![Tejas GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Teju) 
 
 <!--
 **Tejas-Teju/Tejas-Teju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
