@@ -32,9 +32,9 @@ I'm Tejas.  I am a highly passionate **full-stack web developer** and I love bui
 
 ### Statistics
 <a href="https://github.com/Tejas-Teju/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejas-Teju&hide=stars&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Teju&hide=ruby&layout=compact" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Teju" />
+  <span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejas-Teju&hide=stars&show_icons=true" /></span>
+  <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Teju&hide=ruby&layout=compact" /></span>
+  <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Teju" /></span>
 </a>
 
 <!--
