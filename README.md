@@ -1,11 +1,25 @@
 ### Hi there 👋
 
-I'm Tejas. I love building Full stack web projects and still finding a way to contribute to Open Source :raised_hands:
+I'm Tejas.  I am a highly passionate **full-stack web developer** and I love building Full stack web projects and still finding a way to contribute to Open Source projects:raised_hands:
 
 📫 How to reach me:
 
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/tejas_teju97) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tejassadashivappa)
+
+### My technical stack:  
+
+<span><img height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><span>
+<span><img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/></span>
+<span><img height="40" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></span>
+<span><img height="40" src="https://img.icons8.com/officel/40/000000/react.png"/></span>
+  
+<span><img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></span>
+<span><img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/></span>
+  
+<span><img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></span>
+<span><img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/></span>
+<span><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/></span>
 
 ---
 
