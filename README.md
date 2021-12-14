@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Tejas. I love building Full stack web projects and still finding a way to contribute to Open Source :raised_hands:
+
+📫 How to reach me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/tejas_teju97) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tejassadashivappa)
+
+### Statistics
 <a href="https://github.com/Tejas-Teju/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejas-Teju&hide=stars&show_icons=true" />
 </a>
