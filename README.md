@@ -34,11 +34,11 @@ I'm Tejas.  I am a highly passionate **full-stack web developer** and I love bui
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#820](https://github.com/EddieHubCommunity/LinkFree/issues/820) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🎉 Merged PR [#3](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/3) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
-3. 💪 Opened PR [#3](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/3) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
-4. 🗣 Commented on [#819](https://github.com/EddieHubCommunity/LinkFree/issues/819) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#616](https://github.com/EddieHubCommunity/LinkFree/issues/616) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🎉 Merged PR [#4](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/4) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
+2. 💪 Opened PR [#4](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/4) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
+3. 🗣 Commented on [#820](https://github.com/EddieHubCommunity/LinkFree/issues/820) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🎉 Merged PR [#3](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/3) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
+5. 💪 Opened PR [#3](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/3) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
 <!--END_SECTION:activity-->
 
 <!--
