@@ -34,11 +34,11 @@ I'm Tejas.  I am a highly passionate **full-stack web developer** and I love bui
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/5) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
-2. 💪 Opened PR [#5](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/5) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
-3. ❗️ Opened issue [#9](https://github.com/CeruleanCodersComm/community/issues/9) in [CeruleanCodersComm/community](https://github.com/CeruleanCodersComm/community)
-4. 🎉 Merged PR [#4](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/4) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
-5. 💪 Opened PR [#4](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/4) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
+1. 🎉 Merged PR [#6](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/6) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
+2. 💪 Opened PR [#6](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/6) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
+3. 🎉 Merged PR [#5](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/5) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
+4. 💪 Opened PR [#5](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/5) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
+5. ❗️ Opened issue [#9](https://github.com/CeruleanCodersComm/community/issues/9) in [CeruleanCodersComm/community](https://github.com/CeruleanCodersComm/community)
 <!--END_SECTION:activity-->
 
 <!--
