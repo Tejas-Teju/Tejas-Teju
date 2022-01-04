@@ -34,10 +34,10 @@ I'm Tejas.  I am a highly passionate **full-stack web developer** and I love bui
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1070](https://github.com/BeccaLyria/discord-bot/issues/1070) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-2. 💪 Opened PR [#1072](https://github.com/BeccaLyria/discord-bot/pull/1072) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-3. 🗣 Commented on [#1070](https://github.com/BeccaLyria/discord-bot/issues/1070) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-4. 🗣 Commented on [#820](https://github.com/EddieHubCommunity/LinkFree/issues/820) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#1073](https://github.com/BeccaLyria/discord-bot/issues/1073) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+2. 🗣 Commented on [#1072](https://github.com/BeccaLyria/discord-bot/issues/1072) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+3. 💪 Opened PR [#1073](https://github.com/BeccaLyria/discord-bot/pull/1073) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+4. 🗣 Commented on [#1072](https://github.com/BeccaLyria/discord-bot/issues/1072) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
 5. 🗣 Commented on [#1070](https://github.com/BeccaLyria/discord-bot/issues/1070) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
 <!--END_SECTION:activity-->
 
