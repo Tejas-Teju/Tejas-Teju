@@ -35,10 +35,10 @@ I'm Tejas.  I am a highly passionate **full-stack web developer** and I love bui
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1070](https://github.com/BeccaLyria/discord-bot/issues/1070) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-2. 🗣 Commented on [#1](https://github.com/Kira272921/snowball-bot/issues/1) in [Kira272921/snowball-bot](https://github.com/Kira272921/snowball-bot)
-3. 🎉 Merged PR [#6](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/6) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
-4. 💪 Opened PR [#6](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/6) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
-5. 🎉 Merged PR [#5](https://github.com/Tejas-Teju/Java-DSA-Daily/pull/5) in [Tejas-Teju/Java-DSA-Daily](https://github.com/Tejas-Teju/Java-DSA-Daily)
+2. 🗣 Commented on [#820](https://github.com/EddieHubCommunity/LinkFree/issues/820) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#1070](https://github.com/BeccaLyria/discord-bot/issues/1070) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+4. 🗣 Commented on [#1070](https://github.com/BeccaLyria/discord-bot/issues/1070) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+5. 🗣 Commented on [#1](https://github.com/Kira272921/snowball-bot/issues/1) in [Kira272921/snowball-bot](https://github.com/Kira272921/snowball-bot)
 <!--END_SECTION:activity-->
 
 <!--
