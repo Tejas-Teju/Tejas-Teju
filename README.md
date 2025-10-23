@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Tejas.  I am a highly passionate **full-stack web developer** and I love building Full stack web projects:raised_hands:
+I'm Tejas.  I am a highly passionate **full-stack web developer** and I love building Full stack web projects
 
 📫 How to reach me:
 
